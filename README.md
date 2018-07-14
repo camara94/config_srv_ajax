@@ -10,3 +10,4 @@ C:\wamp64\bin\apache\apache2.4.33\conf\httpd.conf
 	Header always set Access-Control-Allow-Origin "*"
 	Header always set Access-Control-Allow-Headers "Content-Type"
 </IfModule>
+la première modification 
